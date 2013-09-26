@@ -1,4 +1,5 @@
 # Unity .gitignore file.
+Library
 .DS_Store
 *.csproj
 *.sln
